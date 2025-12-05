@@ -1,16 +1,61 @@
-## Hi there 👋
+# Olá! Me Chamo Nicollas Ramos
 
-<!--
-**NICKpk/NICKpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Tecnologia em Sistemas para Internet (SENAC) e desenvolvedor com foco em Front-End, caminhando para o Full Stack.
 
-Here are some ideas to get you started:
+Crio interfaces limpas, responsivas e com boa estrutura semântica.  
+Trabalho com projetos reais e gosto de transformar ideias em telas funcionais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tecnologias
+
+### Front-End
+- HTML5
+- CSS3 (Flexbox, Grid, Positioning)
+- JavaScript
+- UI / UX
+- Responsive Design
+- Figma
+
+### Back-End (aprendendo)
+- PHP
+- SQL / Banco de dados
+- Bootstrap
+
+### Ferramentas
+- Git e GitHub
+- VS Code
+- Design System
+
+---
+
+## Projetos em destaque
+
+| Projeto | Tecnologia | Descrição |
+|---|---|---|
+| Pele-Urbana | CSS | Loja artesanal com layout responsivo e arquitetura de CSS. |
+| Poke-Mania | HTML + CSS | Portfólio com layout complexo e footer personalizado. |
+| Megaflix | HTML | Interface inspirada em streaming, responsiva. |
+
+Mais projetos disponíveis nos repositórios.
+
+---
+
+## Objetivo
+
+Evoluir como desenvolvedor Full Stack, criando soluções web completas:
+
+- Interfaces performáticas
+- Back-End funcional
+- Foco em experiência do usuário
+
+---
+
+## Contato
+
+Email: ramosnicollas99@gmail.com  
+Localização: São Paulo, Brasil
+
+---
+
+Obrigado por visitar meu perfil. Se quiser ver mais, explore meus projetos.
