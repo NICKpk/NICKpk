@@ -1,6 +1,6 @@
 # Olá! Me Chamo Nicollas Ramos
 
-Sou estudante de Tecnologia em Sistemas para Internet (SENAC) e desenvolvedor com foco em Front-End, caminhando para o Full Stack.
+Sou estudante de Tecnologia em Sistemas para Internet na instituição SENAC, desenvolvedor com foco em Front-End, caminhando para o Full Stack.
 
 Crio interfaces limpas, responsivas e com boa estrutura semântica.  
 Trabalho com projetos reais e gosto de transformar ideias em telas funcionais.
@@ -19,7 +19,7 @@ Trabalho com projetos reais e gosto de transformar ideias em telas funcionais.
 
 ### Back-End (aprendendo)
 - PHP
-- SQL / Banco de dados
+- SQL
 - Bootstrap
 
 ### Ferramentas
@@ -33,8 +33,8 @@ Trabalho com projetos reais e gosto de transformar ideias em telas funcionais.
 
 | Projeto | Tecnologia | Descrição |
 |---|---|---|
-| Pele-Urbana | CSS | Loja artesanal com layout responsivo e arquitetura de CSS. |
-| Poke-Mania | HTML + CSS | Portfólio com layout complexo e footer personalizado. |
+| Pele-Urbana | CSS + bootstrap + JavaScript| Loja artesanal com layout responsivo e arquitetura de CSS. |
+| Poke-Mania | CSS + bootstrap | Portfólio com layout complexo e footer personalizado. |
 | Megaflix | HTML | Interface inspirada em streaming, responsiva. |
 
 Mais projetos disponíveis nos repositórios.
@@ -53,6 +53,7 @@ Evoluir como desenvolvedor Full Stack, criando soluções web completas:
 
 ## Contato
 
+LinkedIn: linkedin.com/in/nicollas-ramos
 Email: ramosnicollas99@gmail.com  
 Localização: São Paulo, Brasil
 
