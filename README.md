@@ -53,7 +53,7 @@ Evoluir como desenvolvedor Full Stack, criando soluções web completas:
 
 ## Contato
 
-LinkedIn: linkedin.com/in/nicollas-ramos 
+LinkedIn: in/nicollas-ramos
 Email: ramosnicollas99@gmail.com  
 Localização: São Paulo, Brasil
 
