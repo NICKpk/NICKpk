@@ -16,6 +16,7 @@ Trabalho com projetos reais e gosto de transformar ideias em telas funcionais.
 - UI / UX
 - Responsive Design
 - Figma
+- WordPress
 
 ### Back-End (aprendendo)
 - PHP
@@ -26,6 +27,7 @@ Trabalho com projetos reais e gosto de transformar ideias em telas funcionais.
 - Git e GitHub
 - VS Code
 - Design System
+- XAMPP (ambiente local para PHP/MySQL)
 
 ---
 
