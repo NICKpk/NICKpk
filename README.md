@@ -16,7 +16,7 @@ Trabalho com projetos reais e gosto de transformar ideias em telas funcionais.
 - Figma
 - WordPress
 
-### Back-End (aprendendo)
+### Back-End
 - PHP
 - SQL
 - Bootstrap
