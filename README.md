@@ -10,11 +10,9 @@ Trabalho com projetos reais e gosto de transformar ideias em telas funcionais.
 ## Tecnologias
 
 ### Front-End
-- HTML5
-- CSS3 (Flexbox, Grid, Positioning)
+- Angular
 - JavaScript
 - UI / UX
-- Responsive Design
 - Figma
 - WordPress
 
@@ -22,12 +20,14 @@ Trabalho com projetos reais e gosto de transformar ideias em telas funcionais.
 - PHP
 - SQL
 - Bootstrap
+- Laravel
+- Java
 
 ### Ferramentas
 - Git e GitHub
 - VS Code
 - Design System
-- XAMPP (ambiente local para PHP/MySQL)
+- XAMPP
 
 ---
 
