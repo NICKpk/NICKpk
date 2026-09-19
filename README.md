@@ -1,64 +1,65 @@
-# Olá! Me Chamo Nicollas Ramos
+# Olá! Me Chamo Nicollas Ramos 👋
 
-Sou estudante de Tecnologia em Sistemas para Internet na instituição SENAC, desenvolvedor com foco em Front-End, caminhando para o Full Stack.
+Sou **Desenvolvedor Full Stack** e estudante de Tecnologia em Sistemas para Internet no SENAC. 
 
-Crio interfaces limpas, responsivas e com boa estrutura semântica.  
-Trabalho com projetos reais e gosto de transformar ideias em telas funcionais.
+Atuo na construção de aplicações web completas — desde a concepção de interfaces modernas, responsivas e centradas na experiência do usuário (UI/UX) até o desenvolvimento de arquiteturas e bancos de dados no Back-End.
 
 ---
 
-## Tecnologias
+- **Minha Atuação:** Responsável pelo desenvolvimento da estrutura e modelagem do banco de dados relacional.
+- **Tecnologias Utilizadas:** PHP|Laravel|Angular|JavaScript|Java|MySQL.
+- **Destaques:** Organização estruturada de requisitos, facilidade de uso e otimização do fluxo de planejamento acadêmico.
+
+👉 [Clique aqui para ver o repositório do Escopo Fácil](escopofacil.com.br)
+
+---
+
+## 💻 Tecnologias & Ferramentas
 
 ### Front-End
-- Angular
-- JavaScript
-- UI / UX
-- Figma
+- Angular | JavaScript
+- HTML5 | CSS3
+- Bootstrap (Framework CSS)
+- UI / UX Design (Figma)
 - WordPress
 
 ### Back-End
-- PHP
-- SQL
-- Bootstrap
-- Laravel
+- PHP | Laravel
 - Java
+- SQL / Bancos de Dados Relacionais
 
-### Ferramentas
-- Git e GitHub
-- VS Code
-- Design System
-- XAMPP
+### Ferramentas & Práticas
+- Git & GitHub
+- VS Code | XAMPP
+- Design System & Metodologias Responsivas
 
 ---
 
-## Projetos em destaque
+## 📂 Outros Projetos
 
-| Projeto | Tecnologia | Descrição |
+| Projeto | Tecnologias | Descrição |
 |---|---|---|
-| Pele-Urbana | CSS + bootstrap + JavaScript| Loja artesanal com layout responsivo e arquitetura de CSS. |
-| Poke-Mania | CSS + bootstrap | Portfólio com layout complexo e footer personalizado. |
-| Megaflix | HTML | Interface inspirada em streaming, responsiva. |
+| **Poke-Mania** | HTML5, CSS, Bootstrap | E-commerce / Portfólio com layout complexo focado em Pokémon TCG. |
+| **Megaflix** | HTML5, CSS | Interface inspirada em plataformas de streaming com design responsivo. |
 
-Mais projetos disponíveis nos repositórios.
-
----
-
-## Objetivo
-
-Evoluir como desenvolvedor Full Stack, criando soluções web completas:
-
-- Interfaces performáticas
-- Back-End funcional
-- Foco em experiência do usuário
+💡 *Explore a aba de repositórios para conferir outros projetos e códigos!*
 
 ---
 
-## Contato
+## 🎯 Objetivo Profissional
 
-LinkedIn: in/nicollas-ramos
-Email: ramosnicollas99@gmail.com  
-Localização: São Paulo, Brasil
+Desenvolver e evoluir soluções Full Stack robustas, focando em:
+- Interfaces de alta performance e excelente usabilidade.
+- Regras de negócio bem estruturadas e APIs eficientes no Back-End.
+- Modelagem e integração otimizada de bancos de dados.
 
 ---
 
-Obrigado por visitar meu perfil. Se quiser ver mais, explore meus projetos.
+## 📬 Contato
+
+- **LinkedIn:** [linkedin.com/in/nicollas-ramos](https://www.linkedin.com/in/nicollas-ramos)
+- **E-mail:** ramosnicollas99@gmail.com
+- **Localização:** São Paulo, Brasil
+
+---
+Obrigado por visitar meu perfil! Sinta-se à vontade para explorar os repositórios ou entrar em contato.
