@@ -33,13 +33,16 @@ Atuo na construção de aplicações web completas — desde a concepção de in
 
 ---
 
-## 📂 Outros Projetos
+## 📂 Projetos
+
+## 📁 Projetos
 
 | Projeto | Tecnologias | Descrição |
 |---|---|---|
-| **Poke-Mania** | HTML5, CSS, Bootstrap | E-commerce / Portfólio com layout complexo focado em Pokémon TCG. |
+| **Escopo-Facil** | PHP, SQL, HTML, CSS | Software para auxílio na organização e definição de escopo de projetos universitários. |
+| **Poke-Mania** | HTML5, CSS, Bootstrap | E-commerce e portfólio com layout complexo focado em Pokémon TCG. |
+| **Pele-Urbana** | HTML, CSS, Bootstrap, JS | Vitrine digital para loja de produtos artesanais de couro com layout responsivo. |
 | **Megaflix** | HTML5, CSS | Interface inspirada em plataformas de streaming com design responsivo. |
-
 💡 *Explore a aba de repositórios para conferir outros projetos e códigos!*
 
 ---
