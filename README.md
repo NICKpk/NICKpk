@@ -1,4 +1,4 @@
-# Olá! Me Chamo Nicollas Ramos 👋
+# Olá! Me Chamo Nicollas Ramos
 
 Sou **Desenvolvedor Full Stack** e estudante de Tecnologia em Sistemas para Internet no SENAC. 
 
@@ -9,8 +9,6 @@ Atuo na construção de aplicações web completas — desde a concepção de in
 - **Minha Atuação:** Responsável pelo desenvolvimento da estrutura e modelagem do banco de dados relacional.
 - **Tecnologias Utilizadas:** PHP|Laravel|Angular|JavaScript|Java|MySQL.
 - **Destaques:** Organização estruturada de requisitos, facilidade de uso e otimização do fluxo de planejamento acadêmico.
-
-👉 [Clique aqui para ver o repositório do Escopo Fácil](escopofacil.com.br)
 
 ---
 
