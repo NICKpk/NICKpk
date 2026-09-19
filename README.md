@@ -33,8 +33,6 @@ Atuo na construção de aplicações web completas — desde a concepção de in
 
 ---
 
-## 📂 Projetos
-
 ## 📁 Projetos
 
 | Projeto | Tecnologias | Descrição |
